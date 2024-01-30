@@ -2,7 +2,8 @@
 # : hugo new site src
 # Theme generated using the following command from the parent directory
 # : hugo new theme cc
-
+# Final build can be generated using the following command from the parent directory 
+# : hugo --gc --minify --debug --verbose #--watch
 baseURL = 'https://nodecorewiki.github.io/'
 languageCode = 'en-us'
 title = 'Unofficial Nodecore Wiki'
