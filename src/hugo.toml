@@ -1,0 +1,5 @@
+# Generated using the following command from the parent directory
+# : hugo new site src
+baseURL = 'https://nodecorewiki.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
