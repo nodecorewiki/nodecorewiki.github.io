@@ -1,0 +1,2 @@
+This page serves two purposes; one the documentation of various speed runs and speedrunning techniques, and two as a quick start guide for new and returning players. This page does not pretend to be an exhaustive list of speed runs or speedrunning techniques, but instead aims to compile some of the most common techniques and technologies used during speed run.  As well as providing quick and convenient access to various published speed runs, in order to facilitate understanding through example at the highest levels of play.
+
