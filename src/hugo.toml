@@ -25,6 +25,12 @@ theme = 'ccwiki'
 		weight = 0
 
 	[[menu.main]]
+		identifier = "skyblock"
+		name = "skyblock"
+		url = "/skyblock"
+		weight = 0
+
+	[[menu.main]]
 		identifier = "speed_running"
 		name = "speed running"
 		url = "/speed_running"
