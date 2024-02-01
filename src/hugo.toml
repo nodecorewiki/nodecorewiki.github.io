@@ -26,13 +26,13 @@ theme = 'ccwiki'
 
 	[[menu.main]]
 		identifier = "speed_running"
-		name = "speed_running"
+		name = "speed running"
 		url = "/speed_running"
 		weight = 0
 
 	[[menu.main]]
 		identifier = "tech_tree"
-		name = "tech_tree"
+		name = "tech tree"
 		url = "/tech_tree"
 		weight = 0
 
