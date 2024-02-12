@@ -62,11 +62,16 @@
 		<link href="/static/css/style.css" rel="stylesheet">
 		<style>    
 		body {margin: 0px 10px 1px 10px; font-size: 40px; border: 0px solid transparent;} 
-		#nav * { height: 48px; width: 48px; text-align: center; vertical-align: middle; float: left; line-height: inherit; font-size: 10px !important;}
+		#nav * { height: 48px; width: 48px; text-align: center; vertical-align: middle; float: left; line-height: inherit; font-size: 10px !important;
+		position: absolute;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 		#nav::after {content: "hidden_break_point_text";font-size: 0;display: block; line-height: 0; display: block;}
 		main {margin: 50px 0px 0px 0px;}
 		.theme_dark{color: #878787; background-color: #010101}
-		a:link, a:visited, a:hover, a:active {color:inherit;}
+		a:link, a:visited, a:hover, a:active { color:inherit; text-decoration: none; }
 		<style>
 		<style>
 		</style>
