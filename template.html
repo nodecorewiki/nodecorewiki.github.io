@@ -73,9 +73,12 @@
 		vertical-align: middle; 
 		align-items: center;
 		}
+		.flex_parent *:not(:first-child) {flex-grow: 1;   flex-basis: 260px;  }
+		
 		.comment{
 		float: left; line-height: inherit;
 		position: absolute;
+		flex-shrink: 0; 
 		}
 		
 	input[type="search"], select {
@@ -117,7 +120,7 @@
 					</object>
 				</a>
 			</div>
-			<form id="form" method="GET" action="template.html" class="theme_dark" style="flex-grow: 1;  flex-shrink: 0;  flex-basis: 260px;  margin-right: 20px;">
+			<form id="form" method="GET" action="template.html" class="theme_dark" style="">
 				<select  name="" id="cars">
 				  <option value="volvo">Volvo</option>
 				  <option value="saab">Saab</option>
